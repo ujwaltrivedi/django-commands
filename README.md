@@ -4,6 +4,12 @@
 django-admin startproject mysite
 ```
 ```
+python manage.py createsuperuser
+```
+```
+python manage.py runserver
+```
+```
 python manage.py startapp <appname>
 ```
 ```
