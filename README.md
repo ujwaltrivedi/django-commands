@@ -6,7 +6,9 @@ django-admin startproject mysite
 ```
 python manage.py startapp <appname>
 ```
+```
 python manage.py makemigrations <appname>
+```
 ```
 python manage.py sqlmigrate <appname> <migration_file_number>
 ```
